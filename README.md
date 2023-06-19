@@ -1,7 +1,8 @@
 # Projeto de Microserviço de Notificações
 
 ## Descrição: 
-        Este projeto é um microserviço de notificações que permite o envio de mensagens em tempo real para os usuários. Ele foi desenvolvido utilizando a arquitetura de microsserviços, com foco na escalabilidade e na comunicação assíncrona. O microserviço de notificações é responsável por receber as requisições de envio de mensagens e distribuí-las aos usuários conectados.
+
+Este projeto é um microserviço de notificações que permite o envio de mensagens em tempo real para os usuários. Ele foi desenvolvido utilizando a arquitetura de microsserviços, com foco na escalabilidade e na comunicação assíncrona. O microserviço de notificações é responsável por receber as requisições de envio de mensagens e distribuí-las aos usuários conectados.
 
 ## Tecnologias Utilizadas:
 
